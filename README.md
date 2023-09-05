@@ -1,2 +1,0 @@
-# PreEntregaUno-FermaniOnelia
-React
